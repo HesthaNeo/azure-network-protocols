@@ -41,9 +41,7 @@
         <br>
             <img src="https://i.imgur.com/ZajHcZf.png" height="50%" width="50%"/>
 
-
-
-        <h3>- Step 2: Connect/Log into Client-1 as an Admin.</h3>
+   <h3>- Step 2: Connect/Log into Client-1 as an Admin.</h3>
                 <img src="https://i.imgur.com/saHRhLs.png" height="20%" width="20%"/>
         <br>
                 <img src="https://i.imgur.com/Z2gTQMF.png" height="20%" width="20%"/>
